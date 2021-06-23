@@ -1,5 +1,11 @@
 ### Hello Everyone 👋 My Name is Ayush Choudhary 
-I am a
+You can call me a 
+- 🎨 UI/UX Designer
+- 👨‍💻 Developer 
+- 👨‍💼 Leader
+- 🎥 budding VFX designer 
+
+My tech stack
 - 🎨 UI/UX Designer
 - 👨‍💻 Developer 
 - 👨‍💼 Leader
@@ -9,5 +15,6 @@ I am a
 
 [![Here are some of the languages used by me](https://github-readme-stats.vercel.app/api/top-langs/?username=ac14choudhary&layout=compact)](https://github.com/ac14choudhary)
 
+![](https://komarev.com/ghpvc/?username=ac14choudhary)
 
 
