@@ -15,7 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"> 
-  Visitor count<br>
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/548076e649d9b7bd465a97b67c6d8d50a25afd63b6d24ad5f7cabcc22f0a1cc6/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f73616761722d76697261646979612f636f756e742e737667"><img src="https://camo.githubusercontent.com/548076e649d9b7bd465a97b67c6d8d50a25afd63b6d24ad5f7cabcc22f0a1cc6/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f73616761722d76697261646979612f636f756e742e737667" data-canonical-src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" style="max-width:100%;"></a>
-</p>
