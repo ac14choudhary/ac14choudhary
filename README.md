@@ -1,5 +1,6 @@
-### Hello Everyone 👋 My Name is Ayush Choudhary 
-You can call me a 
+### Hello Everyone 👋 My Name is <u>Ayush Choudhary</u> 
+
+### You can call me a 
 - 🎨 UI/UX Designer
 - 👨‍💻 Developer 
 - 👨‍💼 Leader
@@ -21,6 +22,7 @@ My tech stack includes
 <a href="https://linkedin.com/in/ayush-choudhary-857244190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-choudhary-857244190" height="30" width="40" /></a>
 <a href="https://www.behance.net/ayushchoudhary4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ayushchoudhary4" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ra1811029010044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ra1811029010044" height="30" width="40" /></a>
+<a href="https://instagram.com/ac14choudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ac14choudhary" height="30" width="40" /></a>
 </p>
 
 
