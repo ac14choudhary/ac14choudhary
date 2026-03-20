@@ -1,28 +1,80 @@
-### Hello Everyone 👋 My Name is <u>Ayush Choudhary</u> 
+<div align="center">
 
-### You can call me a :
-- 🎨 UI/UX Designer
-- 👨‍💻 Developer 
-- 👨‍💼 Leader
-- 🎥 budding VFX designer 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7b5ea7&height=200&section=header&text=Ayush%20Choudhary&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=UI/UX%20Designer%20%E2%80%A2%20Developer%20%E2%80%A2%20VFX%20Enthusiast&descAlignY=58&descColor=ccbbee&animation=fadeIn" />
 
-### My tech stack includes :
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a><a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=3000&pause=1000&color=7B5EA7&center=true&vCenter=true&multiline=false&width=500&lines=Crafting+pixel-perfect+interfaces+%F0%9F%8E%A8;Building+apps+that+feel+alive+%F0%9F%9A%80;Design+meets+Engineering+%E2%9A%A1;Open+to+collabs+%26+adventures+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
- 
+</div>
 
-<!--[![Here are some of my GitHub's stats](https://github-readme-stats.vercel.app/api?username=ac14choudhary)](https://github.com/ac14choudhary)-->
+---
 
-[![Here are some of the languages used by me](https://github-readme-stats.vercel.app/api/top-langs/?username=ac14choudhary&layout=compact)](https://github.com/ac14choudhary)
+### 👋 Hey there, I'm **Ayush**
 
-![](https://komarev.com/ghpvc/?username=ac14choudhary&color=FF6666)
+A creative technologist living at the intersection of **design** and **code** — I build things that look good *and* work great.
 
-### Connect with me :
-<p align="left">
-<a href="https://linkedin.com/in/ayush-choudhary-857244190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-choudhary-857244190" height="30" width="40" /></a>
-<a href="https://www.behance.net/ayushchoudhary4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ayushchoudhary4" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ra1811029010044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ra1811029010044" height="30" width="40" /></a>
-<a href="https://instagram.com/ac14choudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ac14choudhary" height="30" width="40" /></a>
-</p>
-<a href="mailto:choudharyayush891@gmail.com"><img alt="Gmail" title="Mail" src="https://camo.githubusercontent.com/493916d1b0d5cc939e7de0deaa3540478c5393a28f07e4d79e417bfdd5b96c6b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d4630463646433f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d23454134333335" data-canonical-src="https://img.shields.io/badge/-Gmail-F0F6FC?style=for-the-badge&amp;logo=gmail&amp;logoColor=#EA4335" style="max-width:100%;allign-self:center"></a>
+```
+🎨  UI/UX Designer    →  Figma, Adobe XD, Illustrator, Photoshop
+👨‍💻  Developer         →  JavaScript, React Native, Redux, C/C++, MySQL
+🎥  VFX Designer      →  Motion graphics & visual storytelling
+👨‍💼  Leader            →  Driving teams toward meaningful products
+```
+
+---
+
+### 🛠 Tech Stack
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ac14choudhary&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d14&title_color=7b5ea7&icon_color=e05a6d&text_color=e8e8f0&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ac14choudhary&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d14&title_color=7b5ea7&text_color=e8e8f0" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ac14choudhary&theme=midnight-purple&hide_border=true&background=0d0d14&ring=7b5ea7&fire=e05a6d&currStreakLabel=7b5ea7" width="70%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ac14choudhary&bg_color=0d0d14&color=7b5ea7&line=e05a6d&point=4ecdc4&area=true&hide_border=true" width="95%"/>
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-choudhary-857244190)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ayushchoudhary4)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/ra1811029010044)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ac14choudhary)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:choudharyayush891@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ac14choudhary&color=7b5ea7&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7b5ea7&height=120&section=footer&animation=fadeIn" />
+
+</div>
