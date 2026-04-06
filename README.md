@@ -1,111 +1,107 @@
-<!-- HEADER -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=waving&color=d4956a&height=160&section=header&text=Ayush%20Choudhary&fontSize=42&fontColor=e8e4dc&fontAlignY=38&desc=ac14choudhary&descAlignY=58&descColor=c9c0b5&animation=fadeIn&theme=dark"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=c0392b&height=160&section=header&text=Ayush%20Choudhary&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=ac14choudhary&descAlignY=58&descColor=ffd9d4&animation=fadeIn"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=d4956a&height=160&section=header&text=Ayush%20Choudhary&fontSize=42&fontColor=e8e4dc&fontAlignY=38&desc=ac14choudhary&descAlignY=58&descColor=c9c0b5&animation=fadeIn&theme=dark" width="100%"/>
-</picture>
+<!-- ═══ HEADER ═══ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=d4956a&height=160&section=header&text=Ayush%20Choudhary&fontSize=42&fontColor=e8e4dc&fontAlignY=38&desc=ac14choudhary&descAlignY=58&descColor=c9c0b5&animation=fadeIn&theme=dark" width="100%"  alt="" #gh-dark-mode-only/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c0392b&height=160&section=header&text=Ayush%20Choudhary&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=ac14choudhary&descAlignY=58&descColor=ffe0dc&animation=fadeIn" width="100%" alt="" #gh-light-mode-only/>
+
 <div align="center">
-<!-- TYPING -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=14&duration=3000&pause=1200&color=d4956a&center=true&vCenter=true&width=480&lines=designing+interfaces+that+breathe.;writing+code+that+speaks+for+itself.;leading+teams%2C+building+dreams.;always+learning%2C+always+shipping."/>
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=14&duration=3000&pause=1200&color=c0392b&center=true&vCenter=true&width=480&lines=designing+interfaces+that+breathe.;writing+code+that+speaks+for+itself.;leading+teams%2C+building+dreams.;always+learning%2C+always+shipping."/>
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=14&duration=3000&pause=1200&color=d4956a&center=true&vCenter=true&width=480&lines=designing+interfaces+that+breathe.;writing+code+that+speaks+for+itself.;leading+teams%2C+building+dreams.;always+learning%2C+always+shipping." alt="Typing SVG"/>
-</picture>
+
+<!-- ═══ TYPING ═══ -->
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=14&duration=3000&pause=1200&color=d4956a&center=true&vCenter=true&width=480&lines=designing+interfaces+that+breathe.;writing+code+that+speaks+for+itself.;leading+teams%2C+building+dreams.;always+learning%2C+always+shipping." alt="Typing" #gh-dark-mode-only/>
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=14&duration=3000&pause=1200&color=c0392b&center=true&vCenter=true&width=480&lines=designing+interfaces+that+breathe.;writing+code+that+speaks+for+itself.;leading+teams%2C+building+dreams.;always+learning%2C+always+shipping." alt="Typing" #gh-light-mode-only/>
+
 </div>
+
 <br/>
+
 ```
 01 — UI / UX Designer    →  Figma · Adobe XD · Illustrator · Photoshop
 02 — Developer           →  JavaScript · React Native · Redux · C/C++ · MySQL
 03 — Leader              →  Driving teams toward meaningful products
 04 — VFX Designer        →  Motion graphics & visual storytelling
 ```
+
 <br/>
 
-Stack
+---
+
+### Stack
+
 <div align="center">
-<!-- Each badge appears twice. GitHub hides the wrong one per theme. -->
-<!-- DARK: warm off-white bg (#e8e4dc), dark logo (#111110)         -->
-<!-- LIGHT: near-black bg (#1c1c1a), warm off-white logo (#e8e4dc)  -->
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+
+![C](https://img.shields.io/badge/C-e8e4dc?style=flat-square&logo=c&logoColor=111110#gh-dark-mode-only)
+![C](https://img.shields.io/badge/C-1c1c1a?style=flat-square&logo=c&logoColor=e8e4dc#gh-light-mode-only)
+![C++](https://img.shields.io/badge/C++-e8e4dc?style=flat-square&logo=cplusplus&logoColor=111110#gh-dark-mode-only)
+![C++](https://img.shields.io/badge/C++-1c1c1a?style=flat-square&logo=cplusplus&logoColor=e8e4dc#gh-light-mode-only)
+![JavaScript](https://img.shields.io/badge/JavaScript-e8e4dc?style=flat-square&logo=javascript&logoColor=111110#gh-dark-mode-only)
+![JavaScript](https://img.shields.io/badge/JavaScript-1c1c1a?style=flat-square&logo=javascript&logoColor=F7DF1E#gh-light-mode-only)
+![React Native](https://img.shields.io/badge/React_Native-e8e4dc?style=flat-square&logo=react&logoColor=111110#gh-dark-mode-only)
+![React Native](https://img.shields.io/badge/React_Native-1c1c1a?style=flat-square&logo=react&logoColor=61DAFB#gh-light-mode-only)
+![Redux](https://img.shields.io/badge/Redux-e8e4dc?style=flat-square&logo=redux&logoColor=111110#gh-dark-mode-only)
+![Redux](https://img.shields.io/badge/Redux-1c1c1a?style=flat-square&logo=redux&logoColor=764ABC#gh-light-mode-only)
+![MySQL](https://img.shields.io/badge/MySQL-e8e4dc?style=flat-square&logo=mysql&logoColor=111110#gh-dark-mode-only)
+![MySQL](https://img.shields.io/badge/MySQL-1c1c1a?style=flat-square&logo=mysql&logoColor=4479A1#gh-light-mode-only)
+![Figma](https://img.shields.io/badge/Figma-e8e4dc?style=flat-square&logo=figma&logoColor=111110#gh-dark-mode-only)
+![Figma](https://img.shields.io/badge/Figma-1c1c1a?style=flat-square&logo=figma&logoColor=F24E1E#gh-light-mode-only)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-e8e4dc?style=flat-square&logo=adobexd&logoColor=111110#gh-dark-mode-only)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-1c1c1a?style=flat-square&logo=adobexd&logoColor=FF61F6#gh-light-mode-only)
+![Photoshop](https://img.shields.io/badge/Photoshop-e8e4dc?style=flat-square&logo=adobephotoshop&logoColor=111110#gh-dark-mode-only)
+![Photoshop](https://img.shields.io/badge/Photoshop-1c1c1a?style=flat-square&logo=adobephotoshop&logoColor=31A8FF#gh-light-mode-only)
+![Illustrator](https://img.shields.io/badge/Illustrator-e8e4dc?style=flat-square&logo=adobeillustrator&logoColor=111110#gh-dark-mode-only)
+![Illustrator](https://img.shields.io/badge/Illustrator-1c1c1a?style=flat-square&logo=adobeillustrator&logoColor=FF9A00#gh-light-mode-only)
+
 </div>
 
-GitHub
+---
+
+### GitHub
+
 <div align="center">
-<!-- STATS CARD
-     Dark:  bg #0d1117 (GitHub dark bg), title #e8e4dc, text #c9c0b5 (light enough to read), icons amber
-     Light: bg #ffffff (GitHub light bg), title #1c1c1a, text #3a3630 (dark enough to read), icons red -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api?username=ac14choudhary&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e8e4dc&icon_color=d4956a&text_color=c9c0b5&count_private=true"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ac14choudhary&show_icons=true&hide_border=true&bg_color=ffffff&title_color=1c1c1a&icon_color=c0392b&text_color=3a3630&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ac14choudhary&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e8e4dc&icon_color=d4956a&text_color=c9c0b5&count_private=true" height="165"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ac14choudhary&layout=compact&hide_border=true&bg_color=0d1117&title_color=e8e4dc&text_color=c9c0b5"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ac14choudhary&layout=compact&hide_border=true&bg_color=ffffff&title_color=1c1c1a&text_color=3a3630"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ac14choudhary&layout=compact&hide_border=true&bg_color=0d1117&title_color=e8e4dc&text_color=c9c0b5" height="165"/>
-</picture>
+
+<!-- Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=ac14choudhary&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e8e4dc&icon_color=d4956a&text_color=c9c0b5&count_private=true" height="165" #gh-dark-mode-only/>
+<img src="https://github-readme-stats.vercel.app/api?username=ac14choudhary&show_icons=true&hide_border=true&bg_color=ffffff&title_color=1c1c1a&icon_color=c0392b&text_color=3a3630&count_private=true" height="165" #gh-light-mode-only/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ac14choudhary&layout=compact&hide_border=true&bg_color=0d1117&title_color=e8e4dc&text_color=c9c0b5" height="165" #gh-dark-mode-only/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ac14choudhary&layout=compact&hide_border=true&bg_color=ffffff&title_color=1c1c1a&text_color=3a3630" height="165" #gh-light-mode-only/>
+
 <br/>
-<!-- STREAK
-     Dark:  bg #0d1117, number & ring amber, labels & dates #c9c0b5 (readable on dark)
-     Light: bg #ffffff, ring & fire red,    labels & dates #3a3630 (readable on light) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-streak-stats.herokuapp.com/?user=ac14choudhary&hide_border=true&background=0d1117&ring=d4956a&fire=d4956a&currStreakNum=e8e4dc&currStreakLabel=c9c0b5&sideNums=e8e4dc&sideLabels=c9c0b5&dates=c9c0b5&stroke=1e1e1c"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ac14choudhary&hide_border=true&background=ffffff&ring=c0392b&fire=c0392b&currStreakNum=1c1c1a&currStreakLabel=3a3630&sideNums=1c1c1a&sideLabels=3a3630&dates=3a3630&stroke=e0ddd8"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ac14choudhary&hide_border=true&background=0d1117&ring=d4956a&fire=d4956a&currStreakNum=e8e4dc&currStreakLabel=c9c0b5&sideNums=e8e4dc&sideLabels=c9c0b5&dates=c9c0b5&stroke=1e1e1c" width="70%"/>
-</picture>
+
+<!-- Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ac14choudhary&hide_border=true&background=0d1117&ring=d4956a&fire=d4956a&currStreakNum=e8e4dc&currStreakLabel=c9c0b5&sideNums=e8e4dc&sideLabels=c9c0b5&dates=c9c0b5&stroke=1e1e1c" width="70%" #gh-dark-mode-only/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ac14choudhary&hide_border=true&background=ffffff&ring=c0392b&fire=c0392b&currStreakNum=1c1c1a&currStreakLabel=3a3630&sideNums=1c1c1a&sideLabels=3a3630&dates=3a3630&stroke=e0ddd8" width="70%" #gh-light-mode-only/>
+
 <br/>
-<!-- ACTIVITY GRAPH
-     Dark:  bg #0d1117, label color #c9c0b5, line #8a8578 (visible on dark), points amber
-     Light: bg #ffffff, label color #3a3630, line #c0392b, points red -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=ac14choudhary&bg_color=0d1117&color=c9c0b5&line=8a8578&point=d4956a&area=true&area_color=d4956a&hide_border=true"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ac14choudhary&bg_color=ffffff&color=3a3630&line=c0392b&point=c0392b&area=true&area_color=c0392b&hide_border=true"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ac14choudhary&bg_color=0d1117&color=c9c0b5&line=8a8578&point=d4956a&area=true&area_color=d4956a&hide_border=true" width="95%"/>
-</picture>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ac14choudhary&bg_color=0d1117&color=c9c0b5&line=8a8578&point=d4956a&area=true&area_color=d4956a&hide_border=true" width="95%" #gh-dark-mode-only/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ac14choudhary&bg_color=ffffff&color=3a3630&line=c0392b&point=c0392b&area=true&area_color=c0392b&hide_border=true" width="95%" #gh-light-mode-only/>
+
 </div>
 
-Connect
+---
+
+### Connect
+
 <div align="center">
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-e8e4dc?style=flat-square&logo=linkedin&logoColor=111110#gh-dark-mode-only)](https://linkedin.com/in/ayush-choudhary-857244190)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1c1c1a?style=flat-square&logo=linkedin&logoColor=e8e4dc#gh-light-mode-only)](https://linkedin.com/in/ayush-choudhary-857244190)
+[![Behance](https://img.shields.io/badge/Behance-e8e4dc?style=flat-square&logo=behance&logoColor=111110#gh-dark-mode-only)](https://www.behance.net/ayushchoudhary4)
+[![Behance](https://img.shields.io/badge/Behance-1c1c1a?style=flat-square&logo=behance&logoColor=e8e4dc#gh-light-mode-only)](https://www.behance.net/ayushchoudhary4)
+[![HackerRank](https://img.shields.io/badge/HackerRank-e8e4dc?style=flat-square&logo=hackerrank&logoColor=111110#gh-dark-mode-only)](https://www.hackerrank.com/ra1811029010044)
+[![HackerRank](https://img.shields.io/badge/HackerRank-1c1c1a?style=flat-square&logo=hackerrank&logoColor=00EA64#gh-light-mode-only)](https://www.hackerrank.com/ra1811029010044)
+[![Instagram](https://img.shields.io/badge/Instagram-e8e4dc?style=flat-square&logo=instagram&logoColor=111110#gh-dark-mode-only)](https://instagram.com/ac14choudhary)
+[![Instagram](https://img.shields.io/badge/Instagram-1c1c1a?style=flat-square&logo=instagram&logoColor=E4405F#gh-light-mode-only)](https://instagram.com/ac14choudhary)
+[![Gmail](https://img.shields.io/badge/Gmail-e8e4dc?style=flat-square&logo=gmail&logoColor=111110#gh-dark-mode-only)](mailto:choudharyayush891@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-1c1c1a?style=flat-square&logo=gmail&logoColor=EA4335#gh-light-mode-only)](mailto:choudharyayush891@gmail.com)
+
 <br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://komarev.com/ghpvc/?username=ac14choudhary&color=d4956a&style=flat-square&label=Profile+Views"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=ac14choudhary&color=c0392b&style=flat-square&label=Profile+Views"/>
-  <img src="https://komarev.com/ghpvc/?username=ac14choudhary&color=d4956a&style=flat-square&label=Profile+Views"/>
-</picture>
+
+<img src="https://komarev.com/ghpvc/?username=ac14choudhary&color=d4956a&style=flat-square&label=Profile+Views" #gh-dark-mode-only/>
+<img src="https://komarev.com/ghpvc/?username=ac14choudhary&color=c0392b&style=flat-square&label=Profile+Views" #gh-light-mode-only/>
+
 </div>
+
 <br/>
-<!-- FOOTER -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=waving&color=d4956a&height=100&section=footer&theme=dark"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=c0392b&height=100&section=footer"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=d4956a&height=100&section=footer&theme=dark" width="100%"/>
-</picture>
+
+<!-- ═══ FOOTER ═══ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=d4956a&height=100&section=footer&theme=dark" width="100%" #gh-dark-mode-only/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c0392b&height=100&section=footer" width="100%" #gh-light-mode-only/>
