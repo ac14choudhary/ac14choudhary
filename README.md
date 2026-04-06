@@ -1,11 +1,11 @@
 <!-- HEADER -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=waving&color=d4956a&height=160&section=header&text=Ayush%20Choudhary&fontSize=42&fontColor=e8e4dc&fontAlignY=38&desc=ac14choudhary&descAlignY=58&descColor=8a8578&animation=fadeIn&theme=dark"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=c0392b&height=160&section=header&text=Ayush%20Choudhary&fontSize=42&fontColor=f5f2ed&fontAlignY=38&desc=ac14choudhary&descAlignY=58&descColor=f5f2edcc&animation=fadeIn"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=d4956a&height=160&section=header&text=Ayush%20Choudhary&fontSize=42&fontColor=e8e4dc&fontAlignY=38&desc=ac14choudhary&descAlignY=58&descColor=8a8578&animation=fadeIn&theme=dark" width="100%"/>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=waving&color=d4956a&height=160&section=header&text=Ayush%20Choudhary&fontSize=42&fontColor=e8e4dc&fontAlignY=38&desc=ac14choudhary&descAlignY=58&descColor=c9c0b5&animation=fadeIn&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=c0392b&height=160&section=header&text=Ayush%20Choudhary&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=ac14choudhary&descAlignY=58&descColor=ffd9d4&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=d4956a&height=160&section=header&text=Ayush%20Choudhary&fontSize=42&fontColor=e8e4dc&fontAlignY=38&desc=ac14choudhary&descAlignY=58&descColor=c9c0b5&animation=fadeIn&theme=dark" width="100%"/>
 </picture>
 <div align="center">
-<!-- TYPING — dark: amber · light: deep red -->
+<!-- TYPING -->
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=14&duration=3000&pause=1200&color=d4956a&center=true&vCenter=true&width=480&lines=designing+interfaces+that+breathe.;writing+code+that+speaks+for+itself.;leading+teams%2C+building+dreams.;always+learning%2C+always+shipping."/>
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=14&duration=3000&pause=1200&color=c0392b&center=true&vCenter=true&width=480&lines=designing+interfaces+that+breathe.;writing+code+that+speaks+for+itself.;leading+teams%2C+building+dreams.;always+learning%2C+always+shipping."/>
@@ -23,12 +23,9 @@
 
 Stack
 <div align="center">
-<!-- DARK badges: warm off-white bg, dark logo -->
-<!-- LIGHT badges: dark bg, light logo — visible on white -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C-e8e4dc?style=flat-square&logo=c&logoColor=111110 https://img.shields.io/badge/C%2B%2B-e8e4dc?style=flat-square&logo=cplusplus&logoColor=111110"/>
-  <img src=""/>
-</picture>
+<!-- Each badge appears twice. GitHub hides the wrong one per theme. -->
+<!-- DARK: warm off-white bg (#e8e4dc), dark logo (#111110)         -->
+<!-- LIGHT: near-black bg (#1c1c1a), warm off-white logo (#e8e4dc)  -->
 Show Image
 Show Image
 Show Image
@@ -53,30 +50,36 @@ Show Image
 
 GitHub
 <div align="center">
-<!-- STATS -->
+<!-- STATS CARD
+     Dark:  bg #0d1117 (GitHub dark bg), title #e8e4dc, text #c9c0b5 (light enough to read), icons amber
+     Light: bg #ffffff (GitHub light bg), title #1c1c1a, text #3a3630 (dark enough to read), icons red -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api?username=ac14choudhary&show_icons=true&hide_border=true&bg_color=191917&title_color=e8e4dc&icon_color=d4956a&text_color=8a8578&count_private=true"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ac14choudhary&show_icons=true&hide_border=true&bg_color=f5f2ed&title_color=111110&icon_color=c0392b&text_color=5a5850&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ac14choudhary&show_icons=true&hide_border=true&bg_color=191917&title_color=e8e4dc&icon_color=d4956a&text_color=8a8578&count_private=true" height="160"/>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api?username=ac14choudhary&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e8e4dc&icon_color=d4956a&text_color=c9c0b5&count_private=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ac14choudhary&show_icons=true&hide_border=true&bg_color=ffffff&title_color=1c1c1a&icon_color=c0392b&text_color=3a3630&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ac14choudhary&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e8e4dc&icon_color=d4956a&text_color=c9c0b5&count_private=true" height="165"/>
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ac14choudhary&layout=compact&hide_border=true&bg_color=191917&title_color=e8e4dc&text_color=8a8578"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ac14choudhary&layout=compact&hide_border=true&bg_color=f5f2ed&title_color=111110&text_color=5a5850"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ac14choudhary&layout=compact&hide_border=true&bg_color=191917&title_color=e8e4dc&text_color=8a8578" height="160"/>
-</picture>
-<br/>
-<!-- STREAK -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-streak-stats.herokuapp.com/?user=ac14choudhary&hide_border=true&background=191917&ring=d4956a&fire=d4956a&currStreakLabel=e8e4dc&sideLabels=8a8578&dates=8a8578&stroke=2a2a28"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ac14choudhary&hide_border=true&background=f5f2ed&ring=c0392b&fire=c0392b&currStreakLabel=111110&sideLabels=5a5850&dates=5a5850&stroke=ddd9d2"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ac14choudhary&hide_border=true&background=191917&ring=d4956a&fire=d4956a&currStreakLabel=e8e4dc&sideLabels=8a8578&dates=8a8578&stroke=2a2a28" width="70%"/>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ac14choudhary&layout=compact&hide_border=true&bg_color=0d1117&title_color=e8e4dc&text_color=c9c0b5"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ac14choudhary&layout=compact&hide_border=true&bg_color=ffffff&title_color=1c1c1a&text_color=3a3630"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ac14choudhary&layout=compact&hide_border=true&bg_color=0d1117&title_color=e8e4dc&text_color=c9c0b5" height="165"/>
 </picture>
 <br/>
-<!-- ACTIVITY GRAPH -->
+<!-- STREAK
+     Dark:  bg #0d1117, number & ring amber, labels & dates #c9c0b5 (readable on dark)
+     Light: bg #ffffff, ring & fire red,    labels & dates #3a3630 (readable on light) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=ac14choudhary&bg_color=191917&color=d4956a&line=5a5850&point=d4956a&area=true&hide_border=true"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ac14choudhary&bg_color=f5f2ed&color=c0392b&line=c0392b&point=c0392b&area=true&hide_border=true"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ac14choudhary&bg_color=191917&color=d4956a&line=5a5850&point=d4956a&area=true&hide_border=true" width="95%"/>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-streak-stats.herokuapp.com/?user=ac14choudhary&hide_border=true&background=0d1117&ring=d4956a&fire=d4956a&currStreakNum=e8e4dc&currStreakLabel=c9c0b5&sideNums=e8e4dc&sideLabels=c9c0b5&dates=c9c0b5&stroke=1e1e1c"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ac14choudhary&hide_border=true&background=ffffff&ring=c0392b&fire=c0392b&currStreakNum=1c1c1a&currStreakLabel=3a3630&sideNums=1c1c1a&sideLabels=3a3630&dates=3a3630&stroke=e0ddd8"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ac14choudhary&hide_border=true&background=0d1117&ring=d4956a&fire=d4956a&currStreakNum=e8e4dc&currStreakLabel=c9c0b5&sideNums=e8e4dc&sideLabels=c9c0b5&dates=c9c0b5&stroke=1e1e1c" width="70%"/>
+</picture>
+<br/>
+<!-- ACTIVITY GRAPH
+     Dark:  bg #0d1117, label color #c9c0b5, line #8a8578 (visible on dark), points amber
+     Light: bg #ffffff, label color #3a3630, line #c0392b, points red -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=ac14choudhary&bg_color=0d1117&color=c9c0b5&line=8a8578&point=d4956a&area=true&area_color=d4956a&hide_border=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ac14choudhary&bg_color=ffffff&color=3a3630&line=c0392b&point=c0392b&area=true&area_color=c0392b&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ac14choudhary&bg_color=0d1117&color=c9c0b5&line=8a8578&point=d4956a&area=true&area_color=d4956a&hide_border=true" width="95%"/>
 </picture>
 </div>
 
@@ -93,7 +96,6 @@ Show Image
 Show Image
 Show Image
 <br/>
-<!-- PROFILE VIEWS -->
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://komarev.com/ghpvc/?username=ac14choudhary&color=d4956a&style=flat-square&label=Profile+Views"/>
   <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=ac14choudhary&color=c0392b&style=flat-square&label=Profile+Views"/>
