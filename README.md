@@ -17,10 +17,9 @@
 <br/>
 
 ```
-01 — UI / UX Designer    →  Figma · Adobe XD · Illustrator · Photoshop
+01 — UI / UX Designer    →  Claude code · Codex · Figma · Illustrator · Photoshop
 02 — Developer           →  JavaScript · React Native · Redux · C/C++ · MySQL
 03 — Leader              →  Driving teams toward meaningful products
-04 — VFX Designer        →  Motion graphics & visual storytelling
 ```
 
 <br/>
