@@ -32,25 +32,15 @@
 <div align="center">
 
 ![C](https://img.shields.io/badge/C-e8e4dc?style=flat-square&logo=c&logoColor=111110#gh-dark-mode-only)
-![C](https://img.shields.io/badge/C-1c1c1a?style=flat-square&logo=c&logoColor=e8e4dc#gh-light-mode-only)
 ![C++](https://img.shields.io/badge/C++-e8e4dc?style=flat-square&logo=cplusplus&logoColor=111110#gh-dark-mode-only)
-![C++](https://img.shields.io/badge/C++-1c1c1a?style=flat-square&logo=cplusplus&logoColor=e8e4dc#gh-light-mode-only)
 ![JavaScript](https://img.shields.io/badge/JavaScript-e8e4dc?style=flat-square&logo=javascript&logoColor=111110#gh-dark-mode-only)
-![JavaScript](https://img.shields.io/badge/JavaScript-1c1c1a?style=flat-square&logo=javascript&logoColor=F7DF1E#gh-light-mode-only)
 ![React Native](https://img.shields.io/badge/React_Native-e8e4dc?style=flat-square&logo=react&logoColor=111110#gh-dark-mode-only)
-![React Native](https://img.shields.io/badge/React_Native-1c1c1a?style=flat-square&logo=react&logoColor=61DAFB#gh-light-mode-only)
 ![Redux](https://img.shields.io/badge/Redux-e8e4dc?style=flat-square&logo=redux&logoColor=111110#gh-dark-mode-only)
-![Redux](https://img.shields.io/badge/Redux-1c1c1a?style=flat-square&logo=redux&logoColor=764ABC#gh-light-mode-only)
 ![MySQL](https://img.shields.io/badge/MySQL-e8e4dc?style=flat-square&logo=mysql&logoColor=111110#gh-dark-mode-only)
-![MySQL](https://img.shields.io/badge/MySQL-1c1c1a?style=flat-square&logo=mysql&logoColor=4479A1#gh-light-mode-only)
 ![Figma](https://img.shields.io/badge/Figma-e8e4dc?style=flat-square&logo=figma&logoColor=111110#gh-dark-mode-only)
-![Figma](https://img.shields.io/badge/Figma-1c1c1a?style=flat-square&logo=figma&logoColor=F24E1E#gh-light-mode-only)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-e8e4dc?style=flat-square&logo=adobexd&logoColor=111110#gh-dark-mode-only)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-1c1c1a?style=flat-square&logo=adobexd&logoColor=FF61F6#gh-light-mode-only)
 ![Photoshop](https://img.shields.io/badge/Photoshop-e8e4dc?style=flat-square&logo=adobephotoshop&logoColor=111110#gh-dark-mode-only)
-![Photoshop](https://img.shields.io/badge/Photoshop-1c1c1a?style=flat-square&logo=adobephotoshop&logoColor=31A8FF#gh-light-mode-only)
 ![Illustrator](https://img.shields.io/badge/Illustrator-e8e4dc?style=flat-square&logo=adobeillustrator&logoColor=111110#gh-dark-mode-only)
-![Illustrator](https://img.shields.io/badge/Illustrator-1c1c1a?style=flat-square&logo=adobeillustrator&logoColor=FF9A00#gh-light-mode-only)
 
 </div>
 
